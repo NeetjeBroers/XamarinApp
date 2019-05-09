@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">XamarinDataBaseApp</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">StudentSortApp</string>
+    <string name="action_settings">Class</string>
 </resources>
